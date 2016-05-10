@@ -1,0 +1,34 @@
+.call{
+
+    font-weight: 700;
+    color: #777;
+    display: inline-block;
+    border-bottom: 1px dashed #907F6B;
+    text-align: right;
+    float: right;
+    cursor: pointer;
+    text-shadow: none;
+}
+.phone{
+	font-weight: 700;
+    color: #777;
+    text-align: right;
+    text-shadow: none;
+    /*padding: 15px 15px;*/
+    margin: 5px 15px;
+}
+
+.feedback_form {
+    text-align: center;
+}
+
+h2{
+    margin-top: 0px;
+}
+
+.shipping{
+        display: block; 
+        margin: 0 auto;
+        width: 50%;
+        text-align: center;
+}

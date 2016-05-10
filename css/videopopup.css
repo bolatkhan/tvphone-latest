@@ -1,0 +1,39 @@
+/*
+ * jQuery Video Popup Plugin Stylesheet
+ * Version: 1.0
+ *
+ * Author: Nick Rivers
+ * http://nrivers.com
+ *
+ *
+ * Changelog: 
+ * Version: 1.0
+ *
+ */
+
+#dvGlobalMask {
+
+}
+
+#videopopup {
+   
+}
+
+.modalnav {
+    cursor: pointer;
+    height: 30px;
+	width: 30px;
+	position:absolute;
+	right:-25px;
+	top:-25px;
+	background: url("../img/modal-nav-hover.png") -40px 0px;
+}
+
+.modalnav:hover {
+    background: url("../img/modal-nav-hover.png") -40px 0px;
+}
+
+
+
+
+
