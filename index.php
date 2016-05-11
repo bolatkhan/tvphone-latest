@@ -64,6 +64,10 @@
                         <!-- <p class="phone"> +7(919) 640 19 32</p> -->
                         <a href="#buy">ОСТАВИТЬ ЗАЯВКУ</a>
                     </li>
+                     <li>
+                        <!-- <p class="phone"> +7(919) 640 19 32</p> -->
+                        <a href="FAQ/index.html">ЧАВО</a>
+                    </li>
                 </ul>
             </div>
             <!-- /.navbar-collapse -->
