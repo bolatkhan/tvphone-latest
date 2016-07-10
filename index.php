@@ -66,7 +66,7 @@
                     </li>
                      <li>
                         <!-- <p class="phone"> +7(919) 640 19 32</p> -->
-                        <a href="FAQ/index.html">ЧАВО</a>
+                        <a href="faq/index.html">ЧАВО</a>
                     </li>
                 </ul>
             </div>
@@ -169,8 +169,9 @@
                     </p>
                 </div>
                 <div class="col-lg-5 col-sm-pull-6  col-sm-6">
-                    <img class="img-responsive" src="img/tv1.png" alt="">
-                    <img class="img-responsive" src="img/tv2.png" alt="">
+                    <!-- <img class="img-responsive" src="img/tv1.png" alt="">
+                    <img class="img-responsive" src="img/tv2.png" alt="">-->
+                     <img class="img-responsive" src="img/03._Звоните.png" alt="call">
                 </div>
             </div>
 
@@ -194,7 +195,8 @@
                     
                 </div>
                 <div class="col-lg-5 col-lg-offset-2 col-sm-6">
-                    <img class="img-responsive" src="img/tvphone1_.jpg" alt="">
+                    <!-- <img class="img-responsive" src="img/tvphone1_.jpg" alt=""> -->
+                    <img class="img-responsive" src="img/04._Разговариваете.png" alt="talk">
                 </div>
             </div>
 
@@ -228,7 +230,8 @@
                     </p>
                 </div>
                 <div class="col-lg-5 col-sm-pull-6  col-sm-6">
-                    <img class="img-responsive" src="img/call.png" alt="">
+                    <!-- <img class="img-responsive" src="img/call.png" alt=""> -->
+                    <img class="img-responsive" src="img/02._Подключаете.png" alt="build">
                 </div>
             </div>
 
@@ -258,7 +261,8 @@
                     </p>
                 </div>
                 <div class="col-lg-5 col-lg-offset-2 col-sm-6">
-                    <img class="img-responsive" src="img/tvphone3_.jpg" alt="">
+                    <!-- <img class="img-responsive" src="img/tvphone3_.jpg" alt=""> -->
+                    <img class="img-responsive" src="img/01._Получаете.png" alt="get">
                 </div>
             </div>
 
